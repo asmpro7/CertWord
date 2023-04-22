@@ -1,6 +1,7 @@
 # CertWord
 make any number of certificates by names in docx file  
-![GitHub file size in bytes](https://img.shields.io/github/size/asmpro7/CertWord/CertWord.py?logo=python&logoColor=blue)  
+![GitHub file size in bytes](https://img.shields.io/github/size/asmpro7/CertWord/CertWord.py?logo=python&logoColor=blue) ![GitHub](https://img.shields.io/github/license/asmpro7/CertWord)  
+
 ## requirements
 
 - Certificate template  
